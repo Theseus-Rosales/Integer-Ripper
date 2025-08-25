@@ -1,0 +1,82 @@
+#title{
+ color: white;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ padding-top: 20px;
+
+ font-size: large;
+ text-align: center;
+   
+
+}
+.main {
+ 
+   display: flex;
+}
+   
+   button{
+    background-color: rgb(254, 254, 255);
+    height: 50px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: none;
+    cursor: pointer;
+    width: 150px;
+    
+        margin-top: 50px; 
+    }
+    button:hover{
+        background-color: lightgrey;
+    }
+    
+   
+   body {
+    background-color: slategray;
+   
+   }
+   nav{
+    background-color: #36454F;
+text-align: center;
+   width: 210px;
+   height: 1000px;
+   }
+  
+   .replace{
+  margin-top: 400px;
+  margin-left: 600px;
+  font-size: xx-large;
+   }
+   
+  .text {
+      margin-top: 450px;
+  margin-left: -400px;
+  width: 250px;
+  height: 25px;
+  }
+  .question{
+  margin-top: 450px;
+  margin-left: -200px;
+  font-size: xx-large;
+   }
+   .submit {
+    margin-top: 480px;
+      width: 250px;
+  height: 25px;
+  margin-left: -255px;
+  border-color: black;
+  background-color: grey;
+   }
+.correct {
+    color: darkslategrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+     margin-top: 350px;
+       margin-left: -200px;
+   }
+   .newques {
+     margin-top: 500px;
+      width: 250px;
+  height: 25px;
+  margin-left: -250px;
+  border-color: black;
+  background-color: rgb(59, 59, 59);
+   }
